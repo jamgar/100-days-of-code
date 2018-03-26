@@ -6,7 +6,7 @@
 
 **Thoughts:** I wanted an overlay with a image in the background. Found some resources to help me and implemented a gradient overlay. Overall was pleased with the outcome.
 
-<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/landing_full.png" alt="landing page full" style="color:blue;margin-left:30px;" />
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/landing_small.png" alt="landing page full" />
 
 **Link to work:** [Photographer](http://www.example.com)
 
