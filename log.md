@@ -6,7 +6,7 @@
 
 **Thoughts:** I wanted an overlay with a image in the background. Found some resources to help me and implemented a gradient overlay. Overall was pleased with the outcome.
 
-![landing page full](https://github.com/jamgar/100-days-of-code/blob/master/images/landing_full.png | width=100)
+![landing page full](100-days-of-code/images/landing_full.png)
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
