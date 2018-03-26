@@ -8,6 +8,7 @@
 
 <img src="https://github.com/jamgar/100-days-of-code/blob/master/images/landing_full.png" alt="landing page full" />
 <img src="https://github.com/jamgar/100-days-of-code/blob/master/images/landing_small.png" alt="landing page full" />
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/landing_full_nav.png" alt="landing page full" />
 
 **Link to work:** [Photographer](http://www.example.com)
 
