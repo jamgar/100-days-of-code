@@ -8,6 +8,8 @@
 
 ![landing page full](https://github.com/jamgar/100-days-of-code/blob/master/images/landing_full.png | width=100)
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 **Link to work:** [Photographer](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
