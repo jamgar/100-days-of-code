@@ -25,5 +25,7 @@
 
 **Thoughts** Had to look at different references to understand what the CSS was actually doing. I want to understand what I am coding instead of just copy and pasting.
 
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/gallery_overlay.png" alt="gallery overlay" />
+
 **Link to references**
 [W3Schools Image Overaly](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
