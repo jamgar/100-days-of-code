@@ -19,12 +19,11 @@
 **Thoughts**: Had fun learning and using CSS Grid.
 
 
-### Day 1: June 27, Monday
+### Day 3: March 27, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Added an on hover image overlay to the Gallery section of landing page.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Had to look at different references to understand what the CSS was actually doing. I want to understand what I am coding instead of just copy and pasting.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to references**
+[W3Schools Image Overaly](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
