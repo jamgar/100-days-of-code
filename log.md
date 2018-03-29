@@ -10,7 +10,7 @@
 <img src="https://github.com/jamgar/100-days-of-code/blob/master/images/landing_small.png" alt="landing page small" />
 <img src="https://github.com/jamgar/100-days-of-code/blob/master/images/landing_small_nav.png" alt="landing page small nav" />
 
-**Link to work:** [Photographer](http://www.example.com)
+**Link to work:** [Website](https://youthful-kirch-0795f1.netlify.com/) - Hosted on Netlify
 
 ### Day 2: March 26, 2018
 
@@ -29,3 +29,13 @@
 
 **Link to references**
 [W3Schools Image Overaly](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
+
+
+### Day 4: March 28, 2018
+
+**Today's Progress**: Added Contact form and Fade in on load.
+
+**Thoughts** Completed the site. I could add more, but wanted to get it hosted and start something new.
+
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/gallery_overlay.png" alt="gallery overlay" />
+
