@@ -39,3 +39,11 @@
 
 <img src="https://github.com/jamgar/100-days-of-code/blob/master/images/contact_form.png" alt="gallery overlay" />
 
+
+### Day 5: March 29, 2018
+
+**Today's Progress**: Attended a talk by the Creator of Gatsby and worked on building a Javascript Start Boilerplate.
+
+**Thoughts** It was a great talk, and excited about building a website using Gatsby.
+
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/match_meetup_gatsby.jpeg" alt="Gatsby" />
