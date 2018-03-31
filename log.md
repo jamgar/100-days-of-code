@@ -47,3 +47,13 @@
 **Thoughts** It was a great talk, and excited about building a website using Gatsby.
 
 <img src="https://github.com/jamgar/100-days-of-code/blob/master/images/match_meetup_gatsby.jpeg" alt="Gatsby" />
+
+
+### Day 6: March 30, 2018
+
+**Today's Progress**: Fisished a JavaScript Starter boilderplate to make projects with either Vanilla JS or a JS framework.
+
+**Thoughts** I plan to use this for some upcoming projects for 100DaysOfCode.
+
+**Link to Repo**
+[Javascript Starter Boilerplate](https://github.com/jamgar/javascript-starter)
