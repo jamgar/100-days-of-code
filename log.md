@@ -67,3 +67,15 @@
 
 **Link to Repo**
 [Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
+
+
+### Day 8: April 1, 2018
+
+**Today's Progress**: Added style and code to the quiz.
+
+**Thoughts** Going to make a test/quiz where user are given quetions about Javascript. User will be able to enter there name, and click the Start button. The user will receive a question. Once answered the Next button will be enable. The user will be shown a progress bar which will fill with each answered question. When the user completes the quiz they will be presented with their score, a button to quit or start over.
+
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/day08.jpeg" alt="Day 08" />
+
+**Link to Repo**
+[Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
