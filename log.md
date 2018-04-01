@@ -57,3 +57,13 @@
 
 **Link to Repo**
 [Javascript Starter Boilerplate](https://github.com/jamgar/javascript-starter)
+
+
+### Day 7: March 31, 2018
+
+**Today's Progress**: Setup a new JS project to make a test/quiz project.
+
+**Thoughts** Going to make a test/quiz where user are given quetions about Javascript. User will be able to enter there name, and click the Start button. The user will receive a question. Once answered the Next button will be enable. The user will be shown a progress bar which will fill with each answered question. When the user completes the quiz they will be presented with their score, a button to quit or start over.
+
+**Link to Repo**
+[Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
