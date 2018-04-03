@@ -79,3 +79,15 @@
 
 **Link to Repo**
 [Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
+
+
+### Day 9: April 2, 2018
+
+**Today's Progress**: Added the HTML to show the question and the logic to grab the answer.
+
+**Thoughts** Need to decide the best way to store the answer and check if is correct.
+
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/day09.png" alt="Day 09" />
+
+**Link to Repo**
+[Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
