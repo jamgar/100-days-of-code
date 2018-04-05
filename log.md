@@ -91,3 +91,14 @@
 
 **Link to Repo**
 [Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
+
+### Day 10: April 4, 2018
+
+**Today's Progress**: Missed yesterday, boo, but was at a Ruby Meetup. Added the ability to navigate to the next question and then show results when all questions where answered.
+
+**Thoughts** Next want to add the progess bar.
+
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/day10.gif" alt="Day 10" />
+
+**Link to Repo**
+[Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
