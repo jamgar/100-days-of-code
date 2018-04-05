@@ -102,3 +102,15 @@
 
 **Link to Repo**
 [Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
+
+
+### Day 11: April 5, 2018
+
+**Today's Progress**: Added a progess bar that fills with each new question.
+
+**Thoughts** The progress bar was easier to do then expected..
+
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/day11.gif" alt="Day 11" />
+
+**Link to Repo**
+[Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
