@@ -108,9 +108,32 @@
 
 **Today's Progress**: Added a progess bar that fills with each new question.
 
-**Thoughts** The progress bar was easier to do then expected..
+**Thoughts** The progress bar was easier to do then expected.
 
 <img src="https://github.com/jamgar/100-days-of-code/blob/master/images/day11.gif" alt="Day 11" />
 
 **Link to Repo**
 [Javascript Starter Boilerplate](https://github.com/jamgar/javascript-tester)
+
+
+### Day 12: April 6, 2018
+
+**Today's Progress**: Started a new Weather App project.
+
+**Thoughts** Want to do a Weather app that uses an API to get weather based on the US City and State entered in a search bar.
+
+**Link to Repo**
+[Javascript Weather App](https://github.com/jamgar/js-weather)
+
+
+### Day 13: April 7, 2018
+
+**Today's Progress**: Added search bar and some styling.
+
+**Thoughts** Need to make it responsive.
+
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/day13.png" alt="Day 13" />
+
+**Link to Repo**
+[Javascript Weather App](https://github.com/jamgar/js-weather)
+
