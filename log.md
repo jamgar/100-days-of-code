@@ -151,7 +151,7 @@
 
 **Thoughts** For the open/close of the side search bar I had to add eventlistener to the anchor tag instead of setting the onclick property to the function. Could not find a reason why it would not work otherwise.
 
-<img styles="width:50%;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day15.png" alt="Day 15" />
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day15.png" alt="Day 15" />
 
 **Link to Repo**
 [Javascript Weather App](https://github.com/jamgar/js-weather)
