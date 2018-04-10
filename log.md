@@ -137,3 +137,21 @@
 **Link to Repo**
 [Javascript Weather App](https://github.com/jamgar/js-weather)
 
+
+### Day 14: April 8-9, 2018
+
+**Today's Progress**: Worked on a take home task for job interview. Not able to show.
+
+**Thoughts** It was a good challenge.
+
+
+### Day 15: April 10, 2018
+
+**Today's Progress**: Added responsive search bar.
+
+**Thoughts** For the open/close of the side search bar I had to add eventlistener to the anchor tag instead of setting the onclick property to the function. Could not find a reason why it would not work otherwise.
+
+<img src="https://github.com/jamgar/100-days-of-code/blob/master/images/day13.png" alt="Day 13" />
+
+**Link to Repo**
+[Javascript Weather App](https://github.com/jamgar/js-weather)
