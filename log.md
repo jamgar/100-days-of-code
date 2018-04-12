@@ -167,3 +167,17 @@
 
 **Link to Repo**
 [Javascript Weather App](https://github.com/jamgar/js-weather)
+
+
+
+### Day 17: April 12, 2018
+
+**Today's Progress**: Added Function to get and change weather.
+
+**Thoughts** I had to think about best handling the function for both the main and side menu.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day17a.gif" alt="Day 17a" />
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day17b.gif" alt="Day 17b" />
+
+**Link to Repo**
+[Javascript Weather App](https://github.com/jamgar/js-weather)
