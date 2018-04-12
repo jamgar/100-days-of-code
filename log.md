@@ -155,3 +155,15 @@
 
 **Link to Repo**
 [Javascript Weather App](https://github.com/jamgar/js-weather)
+
+
+### Day 16: April 11, 2018
+
+**Today's Progress**: Added Current and Forecast Weather.
+
+**Thoughts** Had to try out a couple of weather API's. Added Moment.js to deal with formating the date.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day16.png" alt="Day 16" />
+
+**Link to Repo**
+[Javascript Weather App](https://github.com/jamgar/js-weather)
