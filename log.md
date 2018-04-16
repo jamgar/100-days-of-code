@@ -182,7 +182,7 @@
 **Link to Repo**
 [Javascript Weather App](https://github.com/jamgar/js-weather)
 
-### Day 18: April 18, 2018
+### Day 18: April 13, 2018
 
 **Today's Progress**: Checked Gatsby static site generator. Built a smiple blog site.
 
