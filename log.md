@@ -181,3 +181,9 @@
 
 **Link to Repo**
 [Javascript Weather App](https://github.com/jamgar/js-weather)
+
+### Day 18: April 18, 2018
+
+**Today's Progress**: Checked Gatsby static site generator. Built a smiple blog site.
+
+**Thoughts** Had some trouble with GraphQL, and getting both back blogs and projects. Struggle, but was rewarded by learning to filter in GraphQL.
