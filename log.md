@@ -169,7 +169,6 @@
 [Javascript Weather App](https://github.com/jamgar/js-weather)
 
 
-
 ### Day 17: April 12, 2018
 
 **Today's Progress**: Added Function to get and change weather.
@@ -187,3 +186,11 @@
 **Today's Progress**: Checked Gatsby static site generator. Built a smiple blog site.
 
 **Thoughts** Had some trouble with GraphQL, and getting both back blogs and projects. Struggle, but was rewarded by learning to filter in GraphQL.
+
+### Day 19: April 16, 2018
+
+**Today's Progress**: Created an Accordian.
+
+**Thoughts** This was fun. Need to continue getting better at CSS.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day19.gif" alt="Day 19" />
