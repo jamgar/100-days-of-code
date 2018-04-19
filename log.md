@@ -197,10 +197,19 @@
 
 
 
-### Day 12: April 18, 2018
+### Day 20: April 18, 2018
 
 **Today's Progress**: Created a hover and display content effect.
 
 **Thoughts** This was inspired by [Online Tutorials - YouTube Channel](https://www.youtube.com/watch?v=ZA9kwht8n9Q&index=1&list=PL5e68lK9hEzeJyVEeZICW8oJLmH3l3iw6).
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day20.gif" alt="Day 20" />
+
+
+### Day 21: April 10, 2018
+
+**Today's Progress**: Created a flip card.
+
+**Thoughts** Does not require alot of code to make this effect. Going to make into a profile card.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day21.gif" alt="Day 21" />
