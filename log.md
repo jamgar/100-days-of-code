@@ -206,7 +206,7 @@
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day20.gif" alt="Day 20" />
 
 
-### Day 21: April 10, 2018
+### Day 21: April 19, 2018
 
 **Today's Progress**: Created a flip card.
 
