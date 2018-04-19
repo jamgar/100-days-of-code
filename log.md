@@ -194,3 +194,13 @@
 **Thoughts** This was fun. Need to continue getting better at CSS.
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day19.gif" alt="Day 19" />
+
+
+
+### Day 12: April 18, 2018
+
+**Today's Progress**: Created a hover and display content effect.
+
+**Thoughts** This was inspired by [Online Tutorials - YouTube Channel](https://www.youtube.com/watch?v=ZA9kwht8n9Q&index=1&list=PL5e68lK9hEzeJyVEeZICW8oJLmH3l3iw6).
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day20.gif" alt="Day 20" />
