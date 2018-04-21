@@ -222,3 +222,13 @@
 **Thoughts** It will be adopt a cat profile card.
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day22.gif" alt="Day 22" />
+
+
+### Day 23: April 21, 2018
+
+**Today's Progress**: Finished the backside of the flip card.
+
+**Thoughts** Filling more comfortable with CSS.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day23.gif" alt="Day 23" />
+
