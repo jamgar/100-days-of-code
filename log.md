@@ -232,3 +232,11 @@
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day23.gif" alt="Day 23" />
 
+
+### Day 24: April 23, 2018
+
+**Today's Progress**: Started an reponsive dashboard.
+
+**Thoughts** May make it dynamic by adding forms and javascript.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day24.png" alt="Day 24" />
