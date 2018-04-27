@@ -254,3 +254,12 @@
 **Today's Progress**: Went to a new Ruby Meetup.
 
 **Thoughts** The idea for the new meetup is to help people with projects and have lighting talks. As the founder describe it as "What Toastmasters is to public speaking, Continuations is to software development". It was a first meeting and was able to discuss my idea's with a senior level programmer and received instant feedback. This is going to be a valuable meetup.
+
+### Day 27: April 27, 2018
+
+**Today's Progress**: Worked on my reponsive dashboard.
+
+**Thoughts** Added some more elements and styling.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day27.png" alt="Day 27" />
+
