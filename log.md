@@ -263,3 +263,12 @@
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day27.png" alt="Day 27" />
 
+
+### Day 28: April 30, 2018
+
+**Today's Progress**: Started a Coming Soon Landing page.
+
+**Thoughts** Made the gears spinning.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day28.png" alt="Day 28" />
+
