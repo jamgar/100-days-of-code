@@ -272,3 +272,12 @@
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day28.png" alt="Day 28" />
 
+
+### Day 29: May 1, 2018
+
+**Today's Progress**: Added image and more styling to Coming Soon Landing page.
+
+**Thoughts** Added image and more styling.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day29.gif" alt="Day 29" />
+
