@@ -281,3 +281,12 @@
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day29.gif" alt="Day 29" />
 
+### Day 30: May 3, 2018
+
+**Today's Progress**: Fun hover animation.
+
+**Thoughts** Had some trouble with the positioning of the elements.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day30.gif" alt="Day 30" />
+
+
