@@ -290,3 +290,12 @@
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day30.gif" alt="Day 30" />
 
 
+### Day 31: May 21, 2018
+
+**Today's Progress**: Refactoring React App.
+
+**Thoughts** Took a break from posting while I was taking a refresher course on React. Revisited a trello clone app that I built in React and Rails API. Did some refactoring and added the delete board and card.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day31.png" alt="Day 31" />
+
+
