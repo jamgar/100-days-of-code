@@ -316,9 +316,14 @@
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day33.png" alt="Day 33" />
 
-
 ### Day 34: May 25, 2018
 
 **Today's Progress**: Added email authentication with firebase.
 
-**Thoughts** Previously was only using Google Auth with firebase, but now can create user with email and password
+**Thoughts** Previously was only using Google Auth with firebase, but now can create user with email and password.
+
+### Day 35: May 26, 2018
+
+**Today's Progress**: Added SignupPage test.
+
+**Thoughts** The tutorial used Jest and Enzyme for testing. I continued to use it to make some simple tests for the SignupPage.
