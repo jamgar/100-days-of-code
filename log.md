@@ -327,3 +327,11 @@
 **Today's Progress**: Added SignupPage test.
 
 **Thoughts** The tutorial used Jest and Enzyme for testing. I continued to use it to make some simple tests for the SignupPage.
+
+### Day 36: May 28, 2018
+
+**Today's Progress**: Added a Login with email and forget password.
+
+**Thoughts** Firebase makes it simple to setup these common authentication features.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day36.png" alt="Day 36" />
