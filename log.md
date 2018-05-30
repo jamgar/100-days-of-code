@@ -335,3 +335,10 @@
 **Thoughts** Firebase makes it simple to setup these common authentication features.
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day36.png" alt="Day 36" />
+
+
+### Day 37: May 29, 2018
+
+**Today's Progress**: Started the deposits feature.
+
+**Thoughts** Going to add a deposits feature to track income, which will allow me to show a current balance.
