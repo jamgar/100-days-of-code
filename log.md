@@ -342,3 +342,11 @@
 **Today's Progress**: Started the deposits feature.
 
 **Thoughts** Going to add a deposits feature to track income, which will allow me to show a current balance.
+
+### Day 38: May 30, 2018
+
+**Today's Progress**: Added the functionality to add a deposit/income.
+
+**Thoughts** Next step is to list all deposits on Deposit Summary page.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day38.png" alt="Day 38" />
