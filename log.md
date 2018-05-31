@@ -350,3 +350,11 @@
 **Thoughts** Next step is to list all deposits on Deposit Summary page.
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day38.png" alt="Day 38" />
+
+### Day 39: May 31, 2018
+
+**Today's Progress**: Added the list of deposits to display on the Deposit Summary page.
+
+**Thoughts** Going to add the functionality to edit and delete a deposit next.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day39.png" alt="Day 39" />
