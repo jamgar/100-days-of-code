@@ -358,3 +358,11 @@
 **Thoughts** Going to add the functionality to edit and delete a deposit next.
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day39.png" alt="Day 39" />
+
+### Day 40: June 1, 2018
+
+**Today's Progress**: Added the functionality to edit and delete a deposit.
+
+**Thoughts** Going to add the functionality to filter deposits next.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day40.png" alt="Day 40" />
