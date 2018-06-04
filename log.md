@@ -366,3 +366,11 @@
 **Thoughts** Going to add the functionality to filter deposits next.
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day40.png" alt="Day 40" />
+
+### Day 41: June 2, 2018
+
+**Today's Progress**: Added the functionality to filter deposits.
+
+**Thoughts** A users can filter by text, or Date Range, and Sort by Date or Amount
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day41.png" alt="Day 41" />
