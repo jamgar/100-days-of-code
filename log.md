@@ -371,6 +371,12 @@
 
 **Today's Progress**: Added the functionality to filter deposits.
 
-**Thoughts** A users can filter by text, or Date Range, and Sort by Date or Amount
+**Thoughts** A users can filter by text, or Date Range, and Sort by Date or Amount.
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day41.png" alt="Day 41" />
+
+### Day 42: June 3, 2018
+
+**Today's Progress**: Added test for the Deposits components.
+
+**Thoughts** Added test using Jest and Enzyme.
