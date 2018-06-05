@@ -380,3 +380,11 @@
 **Today's Progress**: Added test for the Deposits components.
 
 **Thoughts** Added test using Jest and Enzyme.
+
+### Day 43: June 4, 2018
+
+**Today's Progress**: Add cards to the main dashboard.
+
+**Thoughts** The cards have a description and a button to navigate to the Expense or Deposit Summary page.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day43.png" alt="Day 43" />
