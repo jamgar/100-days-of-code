@@ -388,3 +388,11 @@
 **Thoughts** The cards have a description and a button to navigate to the Expense or Deposit Summary page.
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day43.png" alt="Day 43" />
+
+### Day 44: June 5, 2018
+
+**Today's Progress**: Add current balance to the main dashboard.
+
+**Thoughts** When a user logs in they can see there current balance from all expenses and deposits.
+
+<img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day44.png" alt="Day 44" />
