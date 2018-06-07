@@ -396,3 +396,9 @@
 **Thoughts** When a user logs in they can see there current balance from all expenses and deposits.
 
 <img style="max-width:500px;" src="https://github.com/jamgar/100-days-of-code/blob/master/images/day44.png" alt="Day 44" />
+
+### Day 45: June 6, 2018
+
+**Today's Progress**: Started creating a Workout Tracker API.
+
+**Thoughts** Making an API with Ruby on Rails to track a users workouts. Then will build a frontend with React.
