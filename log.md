@@ -402,3 +402,9 @@
 **Today's Progress**: Started creating a Workout Tracker API.
 
 **Thoughts** Making an API with Ruby on Rails to track a users workouts. Then will build a frontend with React.
+
+### Day 46 - 50: June 7 - 10, 2018
+
+**Today's Progress**: This was progress of several days.
+
+**Thoughts** The API is setup for a frontend to consume authentication and CRUD for Workouts endpoints.
